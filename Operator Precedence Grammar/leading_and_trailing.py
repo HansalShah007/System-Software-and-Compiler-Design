@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 17 23:08:22 2021
-
 @author: Hansal Shah
-@rollno: 19BCP043
-@branch: Computer Engineering
-@division: 1
 
-Experiment 7:
-    Write a program to find leading and trailing of a given grammar where 
-    input is taken from the file.
+Write a program to find leading and trailing of a given grammar where 
+input is taken from the file.
 """
 
 
