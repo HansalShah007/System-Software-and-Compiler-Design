@@ -1,15 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Aug 21 14:59:20 2021
-
 @author: Hansal Shah
-@rollno: 19BCP043
-@branch: Computer Engineering
-@division: 1
 
-Assignment 1:
-   Write a lex program to ocunt the number of tokens
-   in the given statements.
+Write a lex program to count the number of tokens in the given statements.
 """
 
 import ply.lex as lex
