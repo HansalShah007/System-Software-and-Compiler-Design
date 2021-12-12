@@ -1,15 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Aug 27 11:22:54 2021
-
 @author: Hansal Shah
-@rollno: 19BCP043
-@branch: Computer Engineering
-@division: 1
 
-Experiment 3:
-    Write a program to convert the non-deterministic grammar into deterministic
-    grammar.
+Write a program to convert the non-deterministic grammar into deterministic
+grammar.
 """
 final_productions = {}
 
