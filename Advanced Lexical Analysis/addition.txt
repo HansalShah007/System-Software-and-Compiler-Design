@@ -1,0 +1,9 @@
+#include <stdio.h>
+#define a=10
+// A simple program of adding two numbers and printing the result
+
+int main(){
+    int a = 5;
+    int b = 6;
+    printf("The sum is %d",a+b);
+}
